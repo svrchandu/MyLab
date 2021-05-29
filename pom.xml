@@ -19,3 +19,6 @@
     <finalName>${project.artifactId}-${project.version}</finalName>
   </build>
 </project>
+
+FULLY QUALIFIED ARTIFACT NAME = <groupid>:<artifactID>:<version>
+	com.vinaysdevopslab:VinayDevOpsLab:0.0.1-SNAPSHOT
